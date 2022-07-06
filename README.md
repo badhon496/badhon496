@@ -10,11 +10,11 @@
 <a href="https://twitter.com/badhon495">
 <img align="left" alt="Md Sakib Sadman Badhon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/nayeem-rafsan/">
+<a href="https://www.linkedin.com/in/badhon495/">
 <img align="left" alt="Md Sakib Sadman Badhon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/nayeem.rafsan/">
-<img align="left" alt="Md Sakib Sadman Badhon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://t.me/badhon495">
+<img align="left" alt="Md Sakib Sadman Badhon | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <br/>
 <br />
